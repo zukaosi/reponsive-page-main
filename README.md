@@ -40,3 +40,19 @@
 - 수정 내용 커밋 하기
 - git commit -m "반응형 웹페이지 실습 프로젝트 최초 생성"
 - gitHub repository에 최초 업로드
+
+- git status
+- gitHub repository 업데이트
+- git add .
+- git commit -m "커밋 내용"
+- git push origin main
+
+### 레퍼지토리 클론하기
+
+- 레퍼지토리와 같은 이름의 폴더 생성
+- git clone "https://github.com/zukaosi/reponsive-page-main.git" ./
+
+### 최종 코드로 업데이트 하기
+
+- git fetch
+- git merge origin/main
